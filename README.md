@@ -1,4 +1,4 @@
-# **Advice Generator App**  
+# **Advice_Generator**  
 🔗 **Live Demo:** [https://advice-gen-app.vercel.app/](#)  
 
 A simple React app that generates random advice on button clicks. Fully responsive and optimized for multiple screen sizes.  
