@@ -1,4 +1,4 @@
-const quotes = [
+export const quotes = [
         { "person": "Albert Einstein", "advice": "Life is like riding a bicycle. To keep your balance, you must keep moving." },
         { "person": "Steve Jobs", "advice": "Your time is limited, so don’t waste it living someone else’s life." },
         { "person": "Warren Buffett", "advice": "The best investment you can make is in yourself." },
@@ -25,5 +25,5 @@ const quotes = [
         { "person": "Jeff Bezos", "advice": "If you never want to be criticized, for goodness' sake don’t do anything new." }
       ];
   
-  export default quotes;
+
   

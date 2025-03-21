@@ -1,3 +1,7 @@
+/*  ===========================
+ *  Version 1 (V1) - Simple Advice
+ *  =========================== */
+
 // import { useState } from "react";
 
 // function App() {
@@ -69,8 +73,16 @@
 
 // export default App;
 
+
+
+
+
+/*  ===========================
+ *  Version 2 (V2) - Simple Advice
+ *  =========================== */
+
 import { useState } from "react";
-import quotes from "./assets/assets"; // Import the quotes
+import { quotes } from "./assets/assets"; // Import the quotes
 
 function App() {
   const [advice, setAdvice] = useState("");
