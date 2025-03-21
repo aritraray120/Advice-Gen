@@ -10,7 +10,7 @@ A simple React app that generates random advice on button clicks. Fully responsi
 ✅ Smooth and fast performance  
 
 ## 🛠 **Tech Stack**  
-- **React.js** – Frontend framework  
+- **React.js** – Frontend library  
 - **Tailwind CSS** – Styling  
 - **JavaScript (ES6+)** – Logic handling  
 
