@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { quotes } from "./assets/assets"; // Import the quotes
 
-let i = 0; // Declare `i` outside the function
+let i = 0; 
 
 function App() {
 
