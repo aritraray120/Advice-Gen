@@ -1,7 +1,7 @@
 # **Advice-Gen**  
 🔗 **Live Demo:** https://advice-generator-three-eosin.vercel.app/ 
 
-A simple React app that generates random advice on button clicks. Fully responsive and optimized for multiple screen sizes.   
+A responsive advice generation app built with React.js that provides random advice on button click, optimized for 5+ distinct screen resolutions across devices.  
 
 ## 🛠 **Tech Stack**  
 - **React.js** – Frontend library  
